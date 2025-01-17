@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1736895452 source:/home/kaioba/Documentos/GerenciadorDeBiblioteca/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sqlite3.h>
+
